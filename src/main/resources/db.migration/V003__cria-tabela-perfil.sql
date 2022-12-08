@@ -1,0 +1,6 @@
+CREATE TABLE Perfil(
+   id BIGINT NOT NULL AUTO_INCREMENT,
+   perfil VARCHAR(20),
+
+   PRIMARY KEY(id)
+);
